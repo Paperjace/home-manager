@@ -5,7 +5,7 @@
 		./i3.nix
 		./picom.nix
 		./polybar.nix
-		./kitty.nix
+		./ghostty.nix
 		./starship.nix
 		./zsh.nix
 	];

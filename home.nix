@@ -26,7 +26,7 @@
 
   home.sessionVariables = {
     EDITOR = "vim";
-    TERMINAL = "kitty";
+    TERMINAL = "ghostty";
     SHELL = "zsh";
   };
 
